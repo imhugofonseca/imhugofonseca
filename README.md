@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👨🏻‍💻 I'm Hugo! <br />
+
+Co-founder & Head of Development at luggit.app, <br />
+passionate about the web, devops and systems.
+
+
+
 
 <!--
 **imhugofonseca/imhugofonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
